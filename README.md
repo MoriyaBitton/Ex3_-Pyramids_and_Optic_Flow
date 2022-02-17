@@ -1,1 +1,3 @@
-# Ex3_-Pyramids_and_Optic_Flow
+# Ex3_Pyramids_and_Optic_Flow
+
+## Ariel University, Israel || Semester B 2021
